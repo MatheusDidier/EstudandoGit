@@ -2,3 +2,6 @@ Batman
 Luke Cage
 Master Yoda
 Jabba The Hutt
+ChewBacca
+Han Solo
+novaBranch
