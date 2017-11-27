@@ -5,3 +5,6 @@ Jabba The Hutt
 ChewBacca
 Han Solo
 novaBranch
+
+Rey
+Finn
